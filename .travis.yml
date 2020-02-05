@@ -1,3 +1,10 @@
 language: node_js
 node_js:
 - "8.6.0"
+
+deploy:
+  provider: heroku
+  api_key: a913eb3d-f62b-4a6e-97ed-e3f04028bcc1
+  app:
+    master: gobelins-prod
+    develop: gobelins-staging
