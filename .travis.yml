@@ -1,10 +1,10 @@
 language: node_js
 node_js:
-- "8.6.0"
-
+- 8.6.0
 deploy:
   provider: heroku
-  api_key: a913eb3d-f62b-4a6e-97ed-e3f04028bcc1
+  api_key:
+    secure: FK6klX2HDcJ4WH34RW+VWCpU6aUAeYqnrpLCsfNHm5K1y4z5WZpyahhgFvCBBBOOq7UADniKWcAsAYE78SEt6o4ekv7mXlyCeHBbDZP4ANrRrC7rv5WYe1UCTb0rlDidKWvtmhPlC0khyNG4cRL/vLKxPr3ahTtIieO4DHp4SvSgByyBuRUlYo2YD+2vFZ/x09+45RkHNzNtjIWiPGZuVq7AvRe3EKjUVJdmrTh/xtb7ySsftc4UCUTFVMm5B1LN2w1szEbFSGyPewbmV40UtTI20ZMwKo4jvezQzKjWvR7Lh62nlgyqskTvqvgNd4NsBLmADwR1RQ5wzzOl0Gc0JUPiRnqmxBUUd66F0mqNPCiPKJZLqSYxrtON4GuxZNiaNRh/m1synCgnlggdEPfOhep1KVr4HJnTqmYIzuwPeoA/n/60iCRRWKtr/1PJ9BRvC/dNkvFtqlXJqo8jfLx9kMKLocnVf3WlMFWDedEz6hbyWNnlLScADRFQZ0V8/J71HA1DpkK4/Yp3ChiaUTG2XNFktKao2a+JtSrOnot26TjhvrZWAieaFEDSOAtNEvZvsb4d+Q5vV7xdydNzB4NpIdXpsqnfkSr2HEKOsJHrG43bGVCmMaAP8pyblxIUXlH99JlE0/4Mfzb6b08D9mZVbHEMYuciPlEKI7GWZOyQCAA=
   app:
     master: gobelins-prod
     develop: gobelins-staging
