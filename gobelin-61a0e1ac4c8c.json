@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gobelin",
+  "private_key_id": "61a0e1ac4c8cccdbb2bb8860f66294396a160a05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8cIp1FCPKePPZ\nfcAwK/wAzrwHCjMG8HKHAk7m2BOGxy6DmlzO+qGXGcU8naXmmk8QAN/sgPN5l3AV\noQKmiqDnYKoSGBmMdGFlovlz/1WstI+C5xttjogNNGMr4GI8prWsrgaj+l1k7E+G\nwC0F3DYUDzze1WbePOFHWU1+QKlTL43IxaxiCW70hcmYbIDlO3Ab12nNtKOxh1Ep\n/PRWXRgaghuyRPYx4ltakv/XC5kDusVerKrtD6eaIOUnPXaWWZPou4N8fQB+EQnh\nNpkfm7nn0BzBvxadWqhedCv2wOakmy6K6TYs9p4ZSKbeXN9Xs3fwJn53UzwS/tcX\nP+SIxXWNAgMBAAECggEAHR6pDsmjdET3rdrkaa1KXpeT7+SQGRjsIdfl+H9YmSHL\nmtOuVt/dO7vkQmc8PWQIJrlz4RjWRypzTCxa/AB9N/Q0o+IshItxh6LFOLsy8qLe\ncISlNOtrM9suHhgpJiU++uXTqeBlMVThPzoQWxD6HGR0bBz/LgWrbHqs4n88i1mQ\nHCuCOvrPY5smdKgxtnWf5A2lTG+u2Qelsc1UsIcN6EHmB3DVxfTkN0MtdHd0fT24\ngJGn7V76NkewE4J0TLY7KTc8/Sd31f2WFUkfCA5jEIcQpI4prlakVRqsAyTu4OlA\nfPBard06eYASNlzp11+NTCRNKcdhnzEGeCaB8okf0wKBgQD1Qjpo8DGcOMvw9Ql5\nqjLRHrdueivDODnDOoPJ7crNLLqcINNb9TdY+8hwOgWwMuYxBUTAfPzztZwFIdDT\nHnwdgYt6OyxHvA2RM9jUvbVc7jSbOk0tZbkePar7suCA3uS9Bp+BDfzRgwREG3SC\n77rKjgETXAeTB2AH1Jgv2qBaYwKBgQDEsUXg8BD3fT0McyP57j5925sTRl2OasF4\n6xZETx+PDpg8AUAg7ACvBpma7yPW4FIAV0dR/Lu4Uoe48xJtXqZZAaZOLXK4cWRs\nFFrqVRlINigsD+YhxrHW4Ks7Q/3e62+00FcDY03DXhLZRw5sjSUcdhzxUQwnEMky\nPlIP+3R7TwKBgEgubbJkvrUTojIQa/F6ven9+E5zdl3GNnnWxuKvMXihKWq53nq5\n+MgfkiY1bWcmE8lpm4prPqcbVAfOo/7+gdjNP5eBws558iRB9hbmnnHzSVhGGGC8\nB3d2/tOFGb3T284mHNuGmlmvDZpd2jSPCZKDqJ1iAHitOv4S+5dZ6MexAoGAGupH\nLaisKbGxkOqQmbrIQmCyr8iJNNvW7bz9pwtMvj65Bj0FkXu5/Dli+5iNxvGbRwCq\necWjym1AtUZN1zmEedmH8Fq3wBWEMGX4quhKNV9zz9O9IhIWc9j6lXmQW9jLyGpZ\n/dSw53MQETtv9dq6oVJoU31LtGzPm1h70kQOhHECgYEA1JD4JFiX7fSZZ1AxCB+K\nAeWobpCusOMloAyUoDrOytFmc5Z1LAMnXCIueAybmieTfIq7uQkRdsOJDi6X5PQx\n4Anr1fFZniF8JUr0P7KvReO9FR7WH32hWd4Lz9zP04+GahePC68B6dLUzp7VCdhG\nH1WjQvdXMU1TnCYE/wlYVnk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gobelin-storagepubsub@gobelin.iam.gserviceaccount.com",
+  "client_id": "110269975886646640301",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gobelin-storagepubsub%40gobelin.iam.gserviceaccount.com"
+}

@@ -1,5 +1,9 @@
 const formValidator = require('./form_validator');
 const photoModel = require('./photo_model');
+const {PubSub} = require('@google-cloud/pubsub');
+require('dotenv').config();
+
+const pubsub = new PubSub();
 
 function route(app) {
   app.get('/', (req, res) => {
@@ -37,6 +41,14 @@ function route(app) {
         return res.status(500).send({ error });
       });
   });
+
+    app.get('/zip', (req, res) => {
+        const tags = req.query.tags;
+        const tagmode = req.query.tagmode;
+        const buffer = new Buffer.from(JSON.stringify({ tags, tagmode }));
+        pubsub.topic('thomas').publish(buffer);
+        res.send('OK');
+    });
 }
 
 module.exports = route;
